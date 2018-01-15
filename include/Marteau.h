@@ -17,6 +17,7 @@
 class Marteau {
 public:
     Marteau();
+    void donnerUnCoup();
     Marteau(const Marteau& orig);
     virtual ~Marteau();
 private:
