@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=NetbeanTest5
+PROJECTNAME=NetbeanGit5bis
 
 # Active Configuration
 DEFAULTCONF=Debug
