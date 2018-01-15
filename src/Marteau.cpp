@@ -12,10 +12,16 @@
  */
 
 #include "include/Marteau.h"
+#include <iostream>
+
+using namespace std;
 
 Marteau::Marteau() {
 }
 
+voidMarteau::donnerUnCoup() {
+    cout << "Bim!!" << endl;
+}
 Marteau::Marteau(const Marteau& orig) {
 }
 
