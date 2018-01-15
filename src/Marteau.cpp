@@ -19,7 +19,7 @@ using namespace std;
 Marteau::Marteau() {
 }
 
-voidMarteau::donnerUnCoup() {
+void Marteau::donnerUnCoup() {
     cout << "Bim!!" << endl;
 }
 Marteau::Marteau(const Marteau& orig) {
