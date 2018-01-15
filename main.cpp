@@ -27,6 +27,7 @@ int main(int argc, char *argv[]) {
     cout << "Modif du 2nd dev" << endl;
     unTest->sayGoodbye();
     unTest->sayHello();
+    unTest->sayGoodbye();
     // create and show your widgets here
 
     return app.exec();
