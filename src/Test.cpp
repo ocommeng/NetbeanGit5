@@ -12,8 +12,15 @@
  */
 
 #include "include/Test.h"
+#include <iostream>
+
+using namespace std;
 
 Test::Test() {
+}
+
+void Test::sayHello(){
+    cout << "If you see her say hello" << endl;
 }
 
 Test::Test(const Test& orig) {
