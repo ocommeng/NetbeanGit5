@@ -12,8 +12,15 @@
  */
 
 #include "include/Maillet.h"
+#include <iostream>
+
+using namespace std;
 
 Maillet::Maillet() {
+}
+
+void Maillet::changerManche() {
+    cout << "Je change le manche" << endl;
 }
 
 Maillet::Maillet(const Maillet& orig) {

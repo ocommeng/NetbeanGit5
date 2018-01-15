@@ -17,6 +17,7 @@
 class Maillet {
 public:
     Maillet();
+    void changerManche();
     Maillet(const Maillet& orig);
     virtual ~Maillet();
 private:
