@@ -25,6 +25,7 @@ int main(int argc, char *argv[]) {
     cout << "Hello Git" << endl;   
     unTest->sayHello();
     cout << "Modif du 2nd dev" << endl;
+    unTest->sayGoodbye();
     // create and show your widgets here
 
     return app.exec();

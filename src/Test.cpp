@@ -23,6 +23,10 @@ void Test::sayHello(){
     cout << "If you see her say hello" << endl;
 }
 
+void Test::sayGoodbye() {
+    cout << "Goodbye" << endl;
+}
+
 Test::Test(const Test& orig) {
 }
 
