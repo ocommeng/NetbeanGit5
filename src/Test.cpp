@@ -11,9 +11,16 @@
  * Created on 15 janvier 2018, 22:18
  */
 
-#include "Test.h"
+#include "include/Test.h"
+#include <iostream>
+
+using namespace std;
 
 Test::Test() {
+}
+
+void Test::sayHello(){
+    cout << "If you see her say hello" << endl;
 }
 
 Test::Test(const Test& orig) {
