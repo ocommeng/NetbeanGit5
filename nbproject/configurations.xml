@@ -6,6 +6,7 @@
                    projectFiles="true">
       <itemPath>include/Boulet.h</itemPath>
       <itemPath>include/Chaine.h</itemPath>
+      <itemPath>include/Maillon.h</itemPath>
       <itemPath>include/Test.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
@@ -17,6 +18,7 @@
                    projectFiles="true">
       <itemPath>src/Boulet.cpp</itemPath>
       <itemPath>src/Chaine.cpp</itemPath>
+      <itemPath>src/Maillon.cpp</itemPath>
       <itemPath>src/Test.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
@@ -49,6 +51,8 @@
       </item>
       <item path="include/Chaine.h" ex="false" tool="3" flavor2="0">
       </item>
+      <item path="include/Maillon.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="include/Test.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
@@ -56,6 +60,8 @@
       <item path="src/Boulet.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="src/Chaine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Maillon.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="src/Test.cpp" ex="false" tool="1" flavor2="0">
       </item>
@@ -88,6 +94,8 @@
       </item>
       <item path="include/Chaine.h" ex="false" tool="3" flavor2="0">
       </item>
+      <item path="include/Maillon.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="include/Test.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
@@ -95,6 +103,8 @@
       <item path="src/Boulet.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="src/Chaine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Maillon.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="src/Test.cpp" ex="false" tool="1" flavor2="0">
       </item>
