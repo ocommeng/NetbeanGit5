@@ -5,6 +5,7 @@
                    displayName="Header Files"
                    projectFiles="true">
       <itemPath>include/Boulet.h</itemPath>
+      <itemPath>include/Chaine.h</itemPath>
       <itemPath>include/Test.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
@@ -15,6 +16,7 @@
                    displayName="Source Files"
                    projectFiles="true">
       <itemPath>src/Boulet.cpp</itemPath>
+      <itemPath>src/Chaine.cpp</itemPath>
       <itemPath>src/Test.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
@@ -45,11 +47,15 @@
       </compileType>
       <item path="include/Boulet.h" ex="false" tool="3" flavor2="0">
       </item>
+      <item path="include/Chaine.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="include/Test.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="src/Boulet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Chaine.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="src/Test.cpp" ex="false" tool="1" flavor2="0">
       </item>
@@ -80,11 +86,15 @@
       </compileType>
       <item path="include/Boulet.h" ex="false" tool="3" flavor2="0">
       </item>
+      <item path="include/Chaine.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="include/Test.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="src/Boulet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Chaine.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="src/Test.cpp" ex="false" tool="1" flavor2="0">
       </item>

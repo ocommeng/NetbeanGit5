@@ -2,14 +2,14 @@
 # Use project properties -> Build -> Qt -> Expert -> Custom Definitions.
 TEMPLATE = app
 DESTDIR = dist/Release/GNU-Linux
-TARGET = NetbeanTest5
+TARGET = NetbeanGit5
 VERSION = 1.0.0
 CONFIG -= debug_and_release app_bundle lib_bundle
 CONFIG += release 
 PKGCONFIG +=
 QT = core gui widgets
-SOURCES += main.cpp src/Boulet.cpp src/Test.cpp
-HEADERS += include/Boulet.h include/Test.h
+SOURCES += main.cpp src/Boulet.cpp src/Chaine.cpp src/Test.cpp
+HEADERS += include/Boulet.h include/Chaine.h include/Test.h
 FORMS +=
 RESOURCES +=
 TRANSLATIONS +=
