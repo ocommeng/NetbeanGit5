@@ -18,6 +18,7 @@ class Test {
 public:
     Test();
     Test(const Test& orig);
+    void sayHello();
     virtual ~Test();
 private:
 

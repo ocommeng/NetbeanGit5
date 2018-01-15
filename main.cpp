@@ -13,15 +13,17 @@
 
 #include <QApplication>
 #include <iostream>
+#include "include/Test.h"
 
 using namespace std;
 
 int main(int argc, char *argv[]) {
     // initialize resources, if needed
     // Q_INIT_RESOURCE(resfile);
-
+    Test* unTest = new Test();
     QApplication app(argc, argv);
-    cout << "Hello Git" << endl;
+    cout << "Hello Git" << endl;   
+    unTest->sayHello();
     cout << "Modif du 2nd dev" << endl;
     // create and show your widgets here
 
