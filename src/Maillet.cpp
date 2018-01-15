@@ -12,6 +12,9 @@
  */
 
 #include "include/Maillet.h"
+#include <iostream>
+
+using namespace std;
 
 Maillet::Maillet() {
 }
@@ -19,6 +22,9 @@ Maillet::Maillet() {
 Maillet::Maillet(const Maillet& orig) {
 }
 
+void Maillet::donnerUnCoup() {
+    cout << "Bam!!" << endl;
+}
 Maillet::~Maillet() {
 }
 

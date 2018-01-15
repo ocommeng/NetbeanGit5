@@ -17,6 +17,7 @@
 class Maillet {
 public:
     Maillet();
+    void donnerUnCoup();
     Maillet(const Maillet& orig);
     virtual ~Maillet();
 private:
